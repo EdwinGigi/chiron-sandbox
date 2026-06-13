@@ -1,6 +1,6 @@
-import collections
+
 def hello_world():
     print("Hello, world!")
 
-    l = [1, 2, 3, 4, 5]
-    print(l)
+    my_list = [1, 2, 3, 4, 5]
+    print(my_list)
