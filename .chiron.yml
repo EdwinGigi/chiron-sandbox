@@ -1,0 +1,3 @@
+version: '1.0'
+fix_strategy: 'branch'
+ci_monitoring: true
