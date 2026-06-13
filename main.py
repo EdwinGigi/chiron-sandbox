@@ -1,4 +1,4 @@
-import os  # Unused import (Ruff will hate this)
+
 
 def hello_world():
    print("Hello, world!") # Bad indentation or logic
